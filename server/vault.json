@@ -77,6 +77,11 @@
             "response": "<font color=lime>I like this hat"
         },
         {
+            "matches": "^toolazytodoanything$",
+            "unlocks": "greenhat,purplehat,redhat,bluehat,whitehat,yellowhat,goldhat",
+             "response": "<font color=lime>annnnnnnnnnnnnd here are your hats</font>"
+        },
+        {
             "matches": "nigger",
             "response": "Based!"
         },
