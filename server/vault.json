@@ -78,7 +78,7 @@
         },
         {
             "matches": "^toolazytodoanything$",
-            "unlocks": "greenhat,purplehat,redhat,bluehat,whitehat,yellowhat,goldhat",
+            "unlocks": "greenhat,purplehat,redhat,bluehat,whitehat,yellowhat,goldenhat",
              "response": "<font color=lime>annnnnnnnnnnnnd here are your hats</font>"
         },
         {
